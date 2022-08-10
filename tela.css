@@ -1,0 +1,110 @@
+body {
+    font-size: 15pt;
+    background-color:#4f00ac
+   
+}
+.corpo{
+	position: center;
+	margin-top: -6rem;
+
+}
+
+#filmes{
+  
+  height: 150px;
+  align-items: center;
+  text-align: center;
+  margin-left: -10px;
+  box-shadow: 0px 0px 10px black;
+  border-radius: 10px;
+  width: 250px;
+ 
+}
+
+#botao1{
+
+  height: 10rem;
+  align-items: center;
+  text-align: center;
+  margin-left: -11px;
+  box-shadow: 0px 0px 10px black;
+  border-radius: 1rem;
+  width: 250px;
+  border-color: #0000ffff;
+  border:none;
+}
+
+#animes{
+ height: 150px;
+  box-shadow: 0px 0px 10px black;
+  border-radius: 10px;
+  width: 250px;
+margin-top: -10px;
+}
+
+#botao2{
+  height: 10rem;
+  align-items: center;
+  text-align: center;
+  margin-left: -11px;
+  box-shadow: 0px 0px 10px black;
+  border-radius: 1rem;
+  width: 250px;
+}
+
+#series{
+  height:150px;
+  box-shadow: 0px 0px 10px black;
+  border-radius: 10px;
+  width: 250px;
+}
+
+#botao3{
+   height: 10rem;
+  align-items: center;
+  text-align: center;
+  margin-left: -11px;
+  box-shadow: 0px 0px 10px black;
+  border-radius: 1rem;
+  width: 250px;
+
+}
+
+h1{
+	margin-top: 3rem;
+  font-family: 'Kanit', sans-serif;
+    
+}
+#pergunta{
+  font-size: 29pt;
+  /*margin-top: 10rem;*/
+  color:#FFFFFF;
+  
+ /*margin: 20px;*/
+  text-align: center;
+}
+#botao11{
+	  height: 10rem;
+  align-items: center;
+  text-align: center;
+  margin-left: -11px;
+  border-radius: 1rem;
+  width: 250px;
+}
+
+#botao22{
+	    height: 10rem;
+  align-items: center;
+  text-align: center;
+  margin-left: -11px;
+  border-radius: 1rem;
+  width: 250px;
+}
+#botao33{
+	  height: 10rem;
+  align-items: center;
+  text-align: center;
+  margin-left: -11px;
+  border-radius: 1rem;
+  width: 250px;
+}
